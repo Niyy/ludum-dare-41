@@ -6,6 +6,7 @@ public class Hostile_NPC : MonoBehaviour
 {
 	public float walkSpeed;
 	public float spinSpeed;
+	public GameObject theBall;
 
 
 	private Rigidbody2D npcRB;
@@ -16,10 +17,13 @@ public class Hostile_NPC : MonoBehaviour
 	private float offset = 0.10f;
 	private int lastDirChange;
 	private int currentDirChange;
+	private Vector2 ball;
 
 
 	void Start () 
 	{
+		ball = theBall.transform.position;
+
 		npcRB = this.GetComponent<Rigidbody2D>();
 		moveUp();
 	}
@@ -40,6 +44,9 @@ public class Hostile_NPC : MonoBehaviour
 		{
 			npcRB.AddForce(currentSpeed);
 		}
+
+		transform.rotation = Quaternion.Euler(0f, 0f, (Mathf.Rad2Deg * Mathf.Atan2((ball.y - transform.position.y),
+		 (ball.x - transform.position.x)) - 90));
 
 		Debug.DrawRay(newPosVector, walkDir * 0.01f);
 	}
