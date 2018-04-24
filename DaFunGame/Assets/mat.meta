@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:DaFunGame/Assets/Scripts.meta
+guid: a1adc9a0ee28ed747b23c6a506c687f7
+folderAsset: yes
+timeCreated: 1524287047
+=======
 guid: c3ee87c73c4bc6a45be079193d9ceea6
 folderAsset: yes
 timeCreated: 1524443302
+>>>>>>> master:DaFunGame/Assets/mat.meta
 licenseType: Free
 DefaultImporter:
   externalObjects: {}

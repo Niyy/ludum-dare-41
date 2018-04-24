@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/Scenes/npc-demo.unity
+=======
 - path: Assets/test level.unity
+>>>>>>> master
   isLoaded: 1
   isActive: 1
