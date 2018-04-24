@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 5091963e9ec4d3948a1be78be8006135
 timeCreated: 1524458019
+=======
+guid: f5a467e31d3190b4fb571489deb767ab
+timeCreated: 1524449835
+>>>>>>> master
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -41,6 +46,48 @@ TextureImporter:
     21300068: walking_34
     21300070: walking_35
     21300072: walking_36
+<<<<<<< HEAD
+=======
+    21300074: walking_37
+    21300076: walking_38
+    21300078: walking_39
+    21300080: walking_40
+    21300082: walking_41
+    21300084: walking_42
+    21300086: walking_43
+    21300088: walking_44
+    21300090: walking_45
+    21300092: walking_46
+    21300094: walking_47
+    21300096: walking_48
+    21300098: walking_49
+    21300100: walking_50
+    21300102: walking_51
+    21300104: walking_52
+    21300106: walking_53
+    21300108: walking_54
+    21300110: walking_55
+    21300112: walking_56
+    21300114: walking_57
+    21300116: walking_58
+    21300118: walking_59
+    21300120: walking_60
+    21300122: walking_61
+    21300124: walking_62
+    21300126: walking_63
+    21300128: walking_64
+    21300130: walking_65
+    21300132: walking_66
+    21300134: walking_67
+    21300136: walking_68
+    21300138: walking_69
+    21300140: walking_70
+    21300142: walking_71
+    21300144: walking_72
+    21300146: walking_73
+    21300148: walking_74
+    21300150: walking_75
+>>>>>>> master
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -68,7 +115,11 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
+<<<<<<< HEAD
     filterMode: -1
+=======
+    filterMode: 0
+>>>>>>> master
     aniso: -1
     mipBias: -1
     wrapU: 1
@@ -82,7 +133,11 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 100
+=======
+  spritePixelsToUnits: 16
+>>>>>>> master
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -114,6 +169,19 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+<<<<<<< HEAD
+=======
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+>>>>>>> master
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -121,12 +189,21 @@ TextureImporter:
       name: walking_0
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 2
         y: 85
         width: 17
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 1
+        y: 171
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -136,11 +213,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 24
+<<<<<<< HEAD
         y: 84
         width: 9
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -150,11 +235,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 44
+<<<<<<< HEAD
         y: 86
         width: 17
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        y: 182
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -163,12 +256,21 @@ TextureImporter:
       name: walking_3
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 64
         width: 18
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 64
+        y: 181
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -177,12 +279,21 @@ TextureImporter:
       name: walking_4
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 41
         y: 64
         width: 19
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 86
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -191,12 +302,21 @@ TextureImporter:
       name: walking_5
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 19
         y: 64
         width: 21
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 106
+        y: 182
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -205,12 +325,21 @@ TextureImporter:
       name: walking_6
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 124
         y: 60
         width: 17
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 133
+        y: 178
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -219,12 +348,21 @@ TextureImporter:
       name: walking_7
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 166
         y: 60
         width: 17
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 175
+        y: 178
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -233,12 +371,21 @@ TextureImporter:
       name: walking_8
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 2
         y: 53
         width: 17
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 0
+        y: 160
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,12 +394,21 @@ TextureImporter:
       name: walking_9
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 24
         y: 52
         width: 9
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 48
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -261,12 +417,21 @@ TextureImporter:
       name: walking_10
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 44
         y: 54
         width: 17
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 48
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -275,12 +440,21 @@ TextureImporter:
       name: walking_11
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 63
         y: 53
         width: 17
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 62
+        y: 160
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -289,12 +463,21 @@ TextureImporter:
       name: walking_12
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 85
         y: 52
         width: 9
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 110
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -303,12 +486,21 @@ TextureImporter:
       name: walking_13
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 105
         y: 54
         width: 17
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 110
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -317,12 +509,21 @@ TextureImporter:
       name: walking_14
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 123
         y: 45
         width: 17
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 132
+        y: 163
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -331,12 +532,21 @@ TextureImporter:
       name: walking_15
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 146
         y: 52
         width: 9
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 155
+        y: 170
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -345,12 +555,21 @@ TextureImporter:
       name: walking_16
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 0
         y: 32
         width: 18
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 19
+        y: 160
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -359,12 +578,21 @@ TextureImporter:
       name: walking_17
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 41
         y: 32
         width: 19
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 81
+        y: 160
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -373,12 +601,21 @@ TextureImporter:
       name: walking_18
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 61
         y: 32
         width: 18
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 179
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -387,12 +624,21 @@ TextureImporter:
       name: walking_19
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 102
         y: 32
         width: 19
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 179
+        y: 161
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -401,12 +647,21 @@ TextureImporter:
       name: walking_20
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 163
         y: 31
         width: 19
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 2
+        y: 149
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -415,12 +670,21 @@ TextureImporter:
       name: walking_21
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 19
         y: 32
         width: 21
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 24
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -429,12 +693,21 @@ TextureImporter:
       name: walking_22
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 80
         y: 32
         width: 21
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 44
+        y: 150
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -443,12 +716,21 @@ TextureImporter:
       name: walking_23
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 122
         y: 30
         width: 17
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 63
+        y: 149
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -457,17 +739,69 @@ TextureImporter:
       name: walking_24
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 141
         y: 30
         width: 21
         height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+        x: 85
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: walking_25
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 150
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 148
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_27
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 148
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_25
       rect:
         serializedVersion: 2
@@ -477,11 +811,177 @@ TextureImporter:
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: walking_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_31
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 128
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_32
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 134
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_35
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 114
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_38
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 114
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_26
       rect:
         serializedVersion: 2
@@ -491,11 +991,23 @@ TextureImporter:
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 116
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_27
       rect:
         serializedVersion: 2
@@ -505,11 +1017,23 @@ TextureImporter:
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_41
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 118
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_28
       rect:
         serializedVersion: 2
@@ -519,11 +1043,23 @@ TextureImporter:
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_29
       rect:
         serializedVersion: 2
@@ -533,11 +1069,23 @@ TextureImporter:
         height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 116
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_30
       rect:
         serializedVersion: 2
@@ -547,11 +1095,23 @@ TextureImporter:
         height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_44
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 118
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_31
       rect:
         serializedVersion: 2
@@ -561,11 +1121,37 @@ TextureImporter:
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 114
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: walking_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_32
       rect:
         serializedVersion: 2
@@ -575,11 +1161,23 @@ TextureImporter:
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_33
       rect:
         serializedVersion: 2
@@ -589,11 +1187,37 @@ TextureImporter:
         height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: walking_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 96
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_34
       rect:
         serializedVersion: 2
@@ -603,11 +1227,23 @@ TextureImporter:
         height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_35
       rect:
         serializedVersion: 2
@@ -617,11 +1253,37 @@ TextureImporter:
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
+      name: walking_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+<<<<<<< HEAD
       name: walking_36
       rect:
         serializedVersion: 2
@@ -631,6 +1293,325 @@ TextureImporter:
         height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
+=======
+      name: walking_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_57
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 78
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_58
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 58
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 77
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_62
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 58
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_63
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_65
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 37
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_68
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_71
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: walking_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> master
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
