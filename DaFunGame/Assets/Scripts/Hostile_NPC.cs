@@ -18,10 +18,13 @@ public class Hostile_NPC : MonoBehaviour
 	private int lastDirChange;
 	private int currentDirChange;
 	private Vector2 ball;
+	private ArrayList path;
+	private GameObject pathScout;
 
 
 	void Start () 
 	{
+		path = new ArrayList();
 		ball = theBall.transform.position;
 
 		npcRB = this.GetComponent<Rigidbody2D>();
@@ -140,5 +143,19 @@ public class Hostile_NPC : MonoBehaviour
 		}
 		lastDirChange = currentDirChange;
 		currentDirChange = positionOfGreatest;
+	}
+
+
+	private void getBall(ArrayList currentList)
+	{
+		if (ball.Equals(pathScout.transform.position))
+		{
+			path = currentList;
+		}
+		else
+		{
+			currentList.Add(pathScout.transform.position);
+			getBall(currentList);
+		}
 	}
 }
