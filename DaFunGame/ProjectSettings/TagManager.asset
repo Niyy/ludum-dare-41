@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+<<<<<<< HEAD
+  - Ball
+=======
+  - wall
+>>>>>>> master
   layers:
   - Default
   - TransparentFX
@@ -13,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player
+  - Walls
   - 
   - 
   - 
@@ -40,4 +45,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Static Objects
+    uniqueID: 746051095
+    locked: 0
+  - name: Player
+    uniqueID: 70738229
     locked: 0
